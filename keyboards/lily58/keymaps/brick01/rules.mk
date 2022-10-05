@@ -1,4 +1,4 @@
-ENCODER_ENABLE = yes
+ENCODER_ENABLE = no
 BOOTMAGIC_ENABLE = no       # Enable Bootmagic Lite
 MOUSEKEY_ENABLE = no        # Mouse keys
 EXTRAKEY_ENABLE = yes # Audio control and System control
