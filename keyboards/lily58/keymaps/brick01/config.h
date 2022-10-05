@@ -44,7 +44,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define RGBLIGHT_ANIMATIONS
 #define RGBLIGHT_SLEEP
 */
-
+/*
 #define ENCODERS_PAD_A { B12 }
 #define ENCODERS_PAD_B { B13 }
 #define ENCODERS_PAD_A { encoder1a, encoder2a }
@@ -53,4 +53,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define ENCODERS_PAD_A_RIGHT { encoder1a, encoder2a }
 #define ENCODERS_PAD_B_RIGHT { encoder1b, encoder2b }
 #define ENCODER_RESOLUTION 4
-
+*/
